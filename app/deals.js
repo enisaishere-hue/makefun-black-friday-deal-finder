@@ -5,7 +5,7 @@
 // read, verdict says whether it is really a deal, and evidence says why.
 // compare groups two listings of the same product at different stores.
 
-export const CHECKED_AT = '2026-11-27T08:20:00Z';
+export const CHECKED_AT = '2026-11-27T07:54:00Z';
 
 export const deals = [
   {
